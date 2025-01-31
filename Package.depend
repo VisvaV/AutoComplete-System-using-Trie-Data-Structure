@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729850344 source:d:\psg\semester 3\advanced data structures\autocomplete system using trie\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<memory>
+	<algorithm>
+	<unordered_map>
+

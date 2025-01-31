@@ -1,0 +1,14 @@
+phone,fone,fon,phun
+cat,kat,katt
+dog,dawg,dugg
+their,there,they're
+to,too,two
+new,knew,nu
+weather,whether,wether
+write,right,rite
+read,reed,red
+sight,site,cite
+knight,night,nite
+meet,meat,mete
+sea,see,si
+flower,flour,floar
