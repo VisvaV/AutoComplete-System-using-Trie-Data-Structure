@@ -26,5 +26,6 @@ This project implements a menu-driven Autocomplete System using a compressed tri
 ## 🧑‍💻 Usage Instructions  
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone [<repository-url>](https://github.com/VisvaV/AutoComplete-System-using-Trie-Data-Structure.git)
+   cd AutoComplete-System-using-Trie-Data-Structure
+
