@@ -5,7 +5,7 @@ This project implements a menu-driven Autocomplete System using a compressed tri
 - Predictive text suggestions  
 - Phonetic matching for similar-sounding words  
 - Frequency-based predictions  
-- Customizable dictionary management  
+- Customizable dictionary management
 
 ## ✨ Features  
 - **3 Suggestions:** Displays up to 3 predictions in alphabetical order for each letter input.  
